@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Tooth</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Medical" sketch:type="MSLayerGroup" transform="translate(-500.000000, -1197.000000)" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Tooth" transform="translate(512.000000, 1200.000000)" sketch:type="MSShapeGroup">
+                <path d="M26.8209432,49.6144426 C30.9146939,44.4917771 33.602651,35.8621482 33.602651,26.0797821 C33.602651,23.6610357 33.4302249,21.5664652 33.1072461,19.7535763 C36.7474139,12.3016872 35.9784369,3.98463882 31.2957941,0.979214478 C29.3490294,-0.270262391 23.6745151,1.54249209 18.0000003,1.54249209 C12.3254856,1.54249209 6.65097056,-0.270262391 4.70420591,0.979214478 C-0.0302841151,4.01791552 -0.763962696,12.4865147 3.01529036,20.0007764 L3.01529036,20.0007764 C2.74509882,21.7562029 2.60265096,23.770206 2.60265096,26.0797821 C2.60265096,35.7110117 5.20819241,44.2248484 9.19562612,49.3745061 C10.058316,37.1629291 13.6724719,28 18,28 C22.3558249,28 25.9889179,37.2831499 26.8209432,49.6144426 Z" id="Oval-336"></path>
+            </g>
+        </g>
+    </g>
+</svg>
